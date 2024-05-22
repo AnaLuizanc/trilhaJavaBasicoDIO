@@ -8,6 +8,12 @@ public class ContaTerminal {
         String nome;
         double saldo;
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
+
+        System.out.print("Por favor, digite o número da sua agência: ");
+        System.out.print("Por favor, digite o nome da sua agência: ");
+        System.out.print("Por favor, digite o seu nome: ");
+        System.out.print("Por favor, digite o valor do seu saldo: ");
+        System.out.print("Por favor, digite o valor do seu saldo: ");
         
 
     }
